@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Umberto Leone</h1>
 <h3 align="center">A passionate web developer from Italy</h3>
 
-- 🔭 I’m currently working on **Overzoom**
+- 🔭 I’m currently working on **Overzoom** and **Gayadeed**
 
-- 🌱 I’m currently learning **Drizzle and Go**
-
-- 👯 I’m looking to collaborate on IntraMind [AlessiaBot](https://www.intramind-srl.com/)
-
-- 🤝 I’m looking for help with machine learning [Fantabeto](https://github.com/uPeppe/fantabeto)
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **React and Typescript**
 
