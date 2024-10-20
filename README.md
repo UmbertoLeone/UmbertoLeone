@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **React and Typescript**
+- 💬 Ask me about **Next, Vue and Typescript**
 
 - 📫 How to reach me **umberto.leone04@gmail.com**
 
